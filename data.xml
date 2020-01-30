@@ -8,7 +8,8 @@
   </Appenders>
   <Loggers>
 	<Root level="newError">
-	  <AppenderRef ref="Console"/>
+	
+	  <AppenderRef ref="ConsoleEditor"/>
 	</Root>
   </Loggers>
 </Configuration>
