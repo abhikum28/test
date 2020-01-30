@@ -8,7 +8,7 @@
   </Appenders>
   <Loggers>
 	<Root level="newError">
-	  <AppVer id="0.0.1"/>
+	  <AppVer id="0.0.2"/>
 	  <AppenderRef ref="ConsoleEditor"/>
 	</Root>
   </Loggers>
