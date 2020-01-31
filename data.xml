@@ -9,6 +9,7 @@
   <Loggers>
 	<Root level="newError">
 	  <AppVer id="0.0.2"/>
+	  <NewTag property="value"/>
 	  <AppenderRef ref="ConsoleEditor"/>
 	</Root>
   </Loggers>
